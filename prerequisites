@@ -1,0 +1,42 @@
+What is an operating system?
+
+
+What are some common operating systems?
+  Windows
+  Mac / iOS (Unix/BSD)
+  Android (Linux)
+  Linux*
+  (Unix*)
+
+  *Actually a "kernel", but this is outside of the scope of this course
+
+What operating systems should we avoid?
+  Windows
+  (Chrome OS)
+  (Mobile OS)
+
+What are preferably operating systems in cyber security?
+  Linux*
+  (Unix*)
+  We will focus on MX and Parrot/Kali, which are all Debian based. 
+  
+What is a web browser?
+
+What are some common web browsers?
+  Firefox / Firefox-ESR
+  Chrome
+  Chromium
+  Netscape (legacy)
+  Internet Explorer (legacy)
+  Edge
+  Brave (chromium for people who don't know how to install an adblocker)
+  Opera / Opera GX
+  Iridium
+  (Sea Monkey)
+  and so on.
+
+What are add-ons / extensions?
+
+How do  we install them?
+
+Private browsing / Incognito will not make you anonymous on the web - more in future lessons.
